@@ -1,6 +1,6 @@
 let nomeHeroi = "Super Medroso"
 let xp = -200
-//let nivel = ["Ferro, Bronze, Prata, Ouro, Platina, Ascendente, Imortal, Radiante"]
+
 switch (true) {
     case (xp === 1000):
         nivel = "Ferro"
